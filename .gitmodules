@@ -1,0 +1,36 @@
+[submodule "service"]
+	path = service
+	url = https://github.com/nitrogenjs/service.git
+[submodule "client"]
+	path = client
+	url = https://github.com/nitrogenjs/client.git
+[submodule "devices"]
+	path = devices
+	url = https://github.com/nitrogenjs/devices.git
+[submodule "admin"]
+	path = admin
+	url = https://github.com/nitrogenjs/admin.git
+[submodule "camera"]
+	path = camera
+	url = https://github.com/nitrogenjs/camera.git
+[submodule "devops"]
+	path = devops
+	url = https://github.com/nitrogenjs/devops.git
+[submodule "commands"]
+	path = commands
+	url = https://github.com/nitrogenjs/commands.git
+[submodule "reactor"]
+	path = reactor
+	url = https://github.com/nitrogenjs/reactor.git
+[submodule "stores"]
+	path = stores
+	url = https://github.com/nitrogenjs/stores.git
+[submodule "cli"]
+	path = cli
+	url = https://github.com/nitrogenjs/cli.git
+[submodule "apps"]
+	path = apps
+	url = https://github.com/nitrogenjs/apps.git
+[submodule "website"]
+	path = website
+	url = https://github.com/nitrogenjs/website.git
